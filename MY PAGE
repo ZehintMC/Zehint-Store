@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Texture Pack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Minecraft Texture Pack</h1>
+    </header>
+    
+    <section>
+        <h2>Descripción</h2>
+        <p>Este es mi pack de texturas para Minecraft, diseñado para mejorar la experiencia visual del juego. Es compatible con la versión <strong>1.8.9</strong> de Minecraft.</p>
+    </section>
+
+    <section>
+        <h2>Descargar</h2>
+        <p>Puedes descargar mi pack de texturas desde el siguiente enlace:</p>
+        <a href="https://www.mediafire.com/file/t3p2vgavrsq47eo/%2521_%25C2%25A7cCrab_%25C2%25A7fV3_%25C2%25A78%255B%25C2%25A7f16x%25C2%25A78%255D.zip/file" download>Descargar Texture Pack</a>
+    </section>
+
+    <section>
+        <h2>Instrucciones de Instalación</h2>
+        <ol>
+            <li>Descarga el archivo del pack de texturas desde el enlace anterior.</li>
+            <li>Ve a la carpeta de Minecraft en tu computadora.</li>
+            <li>Copia el archivo en la carpeta <code>resourcepacks</code>.</li>
+            <li>Abre Minecraft, selecciona el pack de texturas desde las opciones.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>Creado por Zehint.</p>
+    </footer>
+</
